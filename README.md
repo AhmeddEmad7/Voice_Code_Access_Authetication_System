@@ -9,6 +9,39 @@ Embark on a journey into the enigmatic world of a digital sentinel standing guar
 ## Preview
 ![Animation Gif](Demo.gif)
 
+## Usage
+1. Launch the application.
+2. Press the microphone icon to start recording your voice.
+3. The system will analyze your voice and determine whether to unlock the gate or keep it locked.
+
+## Files
+
+### `main.py`
+
+This file contains the main code for the PyQt5 application. It includes:
+
+- Definition of the `CipherSonicApp` class, which represents the main application window.
+- Functions for recording audio, analyzing voice data, and updating the UI accordingly.
+- Integration with the `model.py` file for voice recognition.
+
+### `model.py`
+
+This file contains the machine learning model used for voice recognition. It includes:
+
+- Data preprocessing steps, including feature extraction from audio files.
+- Training of support vector machine (SVM) models for sentence and speaker recognition.
+- Functions for loading and using the trained models in the application.
+
+## Dependencies
+
+- PyQt5
+- sounddevice
+- librosa
+- numpy
+- wavio
+- matplotlib
+
+
 ## Features
 
  - ### Fine-Tune Every Frequency
@@ -31,14 +64,14 @@ Embark on a journey into the enigmatic world of a digital sentinel standing guar
 Heartfelt thanks to the brilliant minds behind CipherSonic Sentinel for their contributions to this project.
 
 <div align="left">
+   <a href="https://github.com/AhmeddEmad7">
+    <img src="https://github.com/AhmeddEmad7.png" width="100px" alt="@AhmeddEmad7">
+  </a>
   <a href="https://github.com/hazemzakariasaad">
     <img src="https://github.com/hazemzakariasaad.png" width="100px" alt="@hazemzakariasaad">
   </a>
   <a href="https://github.com/nourhan-ahmedd">
     <img src="https://github.com/nourhan-ahmedd.png" width="100px" alt="@nourhan-ahmedd">
-  </a>
-  <a href="https://github.com/AhmeddEmad7">
-    <img src="https://github.com/AhmeddEmad7.png" width="100px" alt="@AhmeddEmad7">
   </a>
   <a href="https://github.com/raghdaneiazyy6">
     <img src="https://github.com/raghdaneiazyy6.png" width="100px" alt="@raghdaneiazy6">
