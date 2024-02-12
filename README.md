@@ -2,9 +2,9 @@
 
 ## Unlock the Sonic Mysteries
 
-#### CipherSonic Sentinel transcends the ordinary, offering a dual-mode security system that responds to the symphony of your vocal cords. Whether you're safeguarding secret passages with a vocal code or granting access to individuals based on their unique voiceprints, CipherSonic Sentinel is your key to unlocking the mysteries of voice-activated security.
+CipherSonic Sentinel transcends the ordinary, offering a dual-mode security system that responds to the symphony of your vocal cords. Whether you're safeguarding secret passages with a vocal code or granting access to individuals based on their unique voiceprints, CipherSonic Sentinel is your key to unlocking the mysteries of voice-activated security.
 
-#### Embark on a journey into the enigmatic world of a digital sentinel standing guard at the intersection of mystery and security. This desktop application merges the cryptic allure of a dark theme with the prowess of digital signal processing, creating an immersive experience for users seeking a unique blend of security and sophistication.
+Embark on a journey into the enigmatic world of a digital sentinel standing guard at the intersection of mystery and security. This desktop application merges the cryptic allure of a dark theme with the prowess of digital signal processing, creating an immersive experience for users seeking a unique blend of security and sophistication.
 
 ## Preview
 ![Animation Gif](Demo.gif)
