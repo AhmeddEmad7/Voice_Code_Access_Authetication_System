@@ -6,6 +6,9 @@
 
 #### Embark on a journey into the enigmatic world of a digital sentinel standing guard at the intersection of mystery and security. This desktop application merges the cryptic allure of a dark theme with the prowess of digital signal processing, creating an immersive experience for users seeking a unique blend of security and sophistication.
 
+## Preview
+![Animation Gif](Demo.gif)
+
 ## Features
 
  - ### Fine-Tune Every Frequency
