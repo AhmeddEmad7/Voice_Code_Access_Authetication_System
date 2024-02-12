@@ -25,14 +25,6 @@ Embark on a journey into the enigmatic world of a digital sentinel standing guar
     - **A spectrogram viewer for the spoken voice-code.**
     - **Analysis results showcasing passcode and voice matches.**
     - **Clear indicators for "Access gained" or "Access denied."**
-   
-## Getting Started
-
-To embark on your journey with CipherSonic Sentinel, follow the steps outlined below:
-
-## Demo
-
-Curious to witness the enigma in action? Watch our demo video and experience the mystical power of CipherSonic Sentinel.
 
 ## Contributors
 
